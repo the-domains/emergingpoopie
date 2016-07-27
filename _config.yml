@@ -1,6 +1,6 @@
 name: emergingpoopie
 favicon: null
-layout_spectrum: 0.76635
+layout_spectrum: 0.71175
 typography_spectrum: 0.40351
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d7c5b4'
     - '#aa8c70'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
