@@ -13,16 +13,16 @@ description: >-
   where "misfits" and pseudo-entrepreneurs give advice on topics they read about
   in magazines, heard in DREAD Talks, or learned through insightful FuzzBeed
   quizzes.
-datePublished: '2016-07-27T22:23:56.119Z'
-dateModified: '2016-07-27T22:23:28.007Z'
+datePublished: '2016-07-27T22:26:30.749Z'
+dateModified: '2016-07-27T22:24:16.217Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-27-emerging-poopie-was-founded-in-2016-by-a-team-with-a-dream-t.md
+starred: true
 url: emerging-poopie-was-founded-in-2016-by-a-team-with-a-dream-t/index.html
 _type: Article
 
