@@ -1,7 +1,7 @@
 name: emergingpoopie
 favicon: null
-layout_spectrum: 0.686192117864266
-typography_spectrum: 0.23969837347976863
+layout_spectrum: 0.76635
+typography_spectrum: 0.40351
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7103953955229372
-  lightness: 0.36489192256703973
-  saturation: 0.043554390547797084
-  rhythmicContrast: 0.2813638048246503
+    - '#ffffff'
+    - '#7f4714'
+    - '#a8e724'
+    - '#d7c5b4'
+    - '#aa8c70'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
