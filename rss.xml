@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[emergingpoopie]]></title>
         <description><![CDATA[emergingpoopie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emergingpoopie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 22:23:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 22:26:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emergingpoopie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/154f55e9-b022-45f4-a5b1-325b4a8446a1.jpg">]]></description>
-            <link>undefinedemerging-poopie-was-founded-in-2016-by-a-team-with-a-dream-t/index.html</link>
+            <link>https://thegrid.ai/emergingpoopie/emerging-poopie-was-founded-in-2016-by-a-team-with-a-dream-t/index.html</link>
             <guid isPermaLink="false">7890a156-157f-4222-931c-341c64e15e6d</guid>
-            <pubDate>Wed, 27 Jul 2016 22:23:56 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2016 22:26:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
